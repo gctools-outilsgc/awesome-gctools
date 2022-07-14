@@ -12,3 +12,6 @@
 ## Tools
  * VScode {[repo](https://github.com/microsoft/vscode)} {[MS build download](https://code.visualstudio.com/)}
  * [Docker](https://docs.docker.com/get-docker/)
+
+## Pleio
+* [gitlab org](https://gitlab.com/pleio/pleio)
