@@ -3,6 +3,7 @@
 ## Learning Resources
 * [Github Flow](https://docs.github.com/en/get-started/quickstart/github-flow)
 * [Trunk based development](https://trunkbaseddevelopment.com/)
+* [Agile Manifesto](https://agilemanifesto.org/) and the [agile principles](https://agilemanifesto.org/principles.html)
 
 ## Relevant documentation
 * [elgg](https://learn.elgg.org/en/stable/)
