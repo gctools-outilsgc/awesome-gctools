@@ -15,5 +15,9 @@
  * [Docker](https://docs.docker.com/get-docker/)
    * [Cheat Sheet](https://github.com/gctools-outilsgc/awesome-gctools/blob/main/docker-cheatsheet.md)
 
+## Google analytics
+ * GA4 - [customizing the menu and reports ](https://support.google.com/analytics/topic/11152760)
+ * Some useful docs for the new api needed for interacting with GA4 - [analytics data api](https://github.com/gctools-outilsgc/data-report/issues/1#issuecomment-1658356851)
+
 ## Pleio
 * [gitlab org](https://gitlab.com/pleio/pleio)
